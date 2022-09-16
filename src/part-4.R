@@ -1,0 +1,1 @@
+unif_sample <- floor(runif(15, 1, 81))
